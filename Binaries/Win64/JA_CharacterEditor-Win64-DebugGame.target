@@ -1,0 +1,33 @@
+{
+	"TargetName" : "JA_CharacterEditor",
+	"Platform" : "Win64",
+	"Configuration" : "DebugGame",
+	"BuildId" : "5bb76d40-c567-4909-8105-1cf35ba62032",
+	"Version" : 
+	{
+		"MajorVersion" : 4,
+		"MinorVersion" : 11,
+		"PatchVersion" : 0,
+		"Changelist" : 2858478,
+		"IsLicenseeVersion" : 0,
+		"BranchName" : "++UE4+Release-4.11"
+	},
+	"BuildProducts" :
+	[
+		{
+			"Path" : "$(ProjectDir)\\Binaries\\Win64\\UE4Editor-JA_Character-Win64-DebugGame.dll",
+			"Type" : "DynamicLibrary"
+		},
+		{
+			"Path" : "$(ProjectDir)\\Binaries\\Win64\\UE4Editor-JA_Character-Win64-DebugGame.pdb",
+			"Type" : "SymbolFile"
+		},
+		{
+			"Path" : "$(ProjectDir)\\Intermediate\\Build\\Win64\\UE4Editor\\DebugGame\\UE4Editor-JA_Character-Win64-DebugGame.lib",
+			"Type" : "ImportLibrary"
+		}
+	],
+	"RuntimeDependencies" :
+	[
+	]
+}
